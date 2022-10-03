@@ -1,13 +1,13 @@
 ## Hello 🌎 
 
                                 
-### I'm currently a Software Engineer Student specializing in Machine Learning and Data Science.
+### I'm currently a Machine Learning Researcher and MSc Computer Science Student.
 
-- 🎯  I'm focusing in learning Machine Learning
+- 🎯  Focused in learning Machine Learning
 
 - 🌱  I’m always looking for ways to improve and optimize tasks
 
-- 🔎  I’m looking to collaborate on Computer Vision Projects
+- 🔎  Looking for new challenges
 
 ### Contact me at
  <a href="mailto:angeloandre1998@gmail.com">
