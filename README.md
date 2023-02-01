@@ -1,13 +1,9 @@
-## Hello 🌎 
+## Hello Hello 👋
 
                                 
-### I'm currently a Machine Learning Researcher and MSc Computer Science Student.
+### I'm a Software Engineer
 
-- 🎯  Focused in learning Machine Learning
-
-- 🌱  I’m always looking for ways to improve and optimize tasks
-
-- 🔎  Looking for new challenges
+#### Currently working as a Full Stack Developer at Bosch <img align="left" alt="Bosch" width="30px" src="https://avatars.githubusercontent.com/u/35259117?s=200&v=4" />
 
 ### Contact me at
  <a href="mailto:angeloandre1998@gmail.com">
